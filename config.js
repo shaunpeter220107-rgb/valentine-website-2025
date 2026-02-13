@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['🔥', '🐺', '🔥', '🐺', '🔥'],  // Heart emojis
-        bears: ['🩷', '❤️']                       // Cute bear emojis
+        bears: ['🩷', '💛']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -43,8 +43,8 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "arre bapre :0 (I LOVE YOU ZYDA)",  // Shows when they go past 5000%
-        high: "even my pets love me zyada :(",              // Shows when they go past 1000%
-        normal: "itna hi :("                           // Shows when they go past 100%
+        high: "itna hi :(",              // Shows when they go past 1000%
+        normal: "ok yaar :("                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
